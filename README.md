@@ -7,19 +7,19 @@ I am a proactive person who never stops fighting for his dreams.
 - Python 
 - Java
 - Java script
-- C
+- C++
 
 ## Learning :gear:
-- HTML and CSS
-- mysql
+-FastAPI
+- Mysql
 - django
-- NoSQL
-- Google CloudPlatform
-
+- MongoDB
+- Google Cloud Platform
+- HTML
 
 
 ## Hobbies :test_tube:
-- read 📫
+- Read 📫
 - Mountain biking :biking_man:
 - Gym
 

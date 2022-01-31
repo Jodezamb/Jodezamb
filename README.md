@@ -10,7 +10,7 @@ I am a proactive person who never stops fighting for his dreams.
 - C++
 
 ## Learning :gear:
--FastAPI
+- FastAPI
 - Mysql
 - django
 - MongoDB
